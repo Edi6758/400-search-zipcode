@@ -1,4 +1,4 @@
-# Sistema TODO List Em React e TS
+# Sistema TODO List Em React e TypeScript
 
 Este projeto foi inicializado com [Create React App](https://github.com/facebook/create-react-app).
 
